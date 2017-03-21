@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">ADTD UTN App Mobile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about">Acerca de</string>
+    <string name="login">Ingresar</string>
+
+    <string name="links">Enlaces web</string>
+    <string name="youtube_videos">Youtube</string>
+    <string name="remember_me">Recordarme</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_update">Actualizar</string>
+    <string name="action_close">Cerrar</string>
+    <string name="error_invalid_email">Dirección no válida</string>
+    <string name="error_invalid_password">La contraseña debe contener más de 4 caracteres</string>
+    <string name="error_incorrect_email_password">Correo electronico y/o contraseña inválidos</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="error_connection_failed">Por favor verifique la conexión de internet</string>
+    <string name="error_server">Error en el servidor de aplicación.\n Intente loguearse más tarde.\n Si el error persiste comuniquese con el administrador.</string>
+    <string name="error_loading_url">Error al cargar la url</string>
+    <string name="error_application">Error al cargar la aplicación</string>
+    <string name="msg_updated">Datos actualizados</string>
+    <string name="str_hello">Hola</string>
+    <string name="str_about_1">2017 - ADTD Mobile</string>
+    <string name="str_about_2">UTN</string>
+</resources>
